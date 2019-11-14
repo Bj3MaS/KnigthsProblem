@@ -1,6 +1,6 @@
 # KnigthsProblem
 
-An a program that uses the Warnsdorf's rule to solve knight problem faster and more efficient
+A program that uses the Warnsdorf's rule to solve knight problem faster and more efficient
 
 link to Warnsdorf's rule: https://en.wikipedia.org/wiki/Knight%27s_tour
 
